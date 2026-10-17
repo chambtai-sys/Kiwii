@@ -1,2 +1,2 @@
 # Kiwii
-Make the PowerShell experience better and more customizable.
+Makes the PowerShell experience better and more customizable.
